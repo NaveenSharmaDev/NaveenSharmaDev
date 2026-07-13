@@ -90,3 +90,13 @@ Seeking an opportunity as a Python Full Stack Developer where I can apply my tec
 ---
 
 ⭐ *Always learning, always building, always improving.*
+
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=github-dark)
