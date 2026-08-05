@@ -1,25 +1,29 @@
-# Hi 👋, I'm Naveen Sharma
+<h1 align="center">Hi 👋, I'm Naveen Kumar Sharma</h1>
 
-## 🚀 Python Full Stack Developer | Backend Enthusiast | Open to Work
+<h3 align="center">Python Developer | MERN Stack Developer | AI & Computer Vision Enthusiast</h3>
 
-I am an MCA student passionate about building scalable web applications using Python Full Stack technologies. I enjoy developing secure backend APIs, responsive frontends, and solving real-world problems through clean and efficient code.
+<p align="center">
+🎓 MCA Student | 💻 Full Stack Developer | 🚀 Open to Full-Time Opportunities
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 MCA Student at Lloyd Institute of Engineering & Technology
-- 💻 Python Full Stack Developer
-- 🌱 Currently learning Django, FastAPI, React.js & Docker
-- 🔍 Interested in Backend Development, REST APIs & Cloud
-- 🤝 Open to Internship & Full-Time Opportunities
+- 💻 Python & MERN Stack Developer
+- 🤖 Interested in AI, Computer Vision and Backend Development
+- 🌱 Currently learning Django, FastAPI, Node.js and Docker
+- ⚡ Passionate about REST APIs and Scalable Applications
 - 📍 Greater Noida, India
+- 🚀 Open to Internship & Full-Time Opportunities
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### Programming Languages
+
 - Python
 - JavaScript
 - HTML5
@@ -27,74 +31,156 @@ I am an MCA student passionate about building scalable web applications using Py
 - SQL
 
 ### Frontend
+
+- React.js
 - HTML5
 - CSS3
 - Bootstrap
-- JavaScript
-- React.js
 
 ### Backend
-- Django
+
 - FastAPI
+- Django
+- Node.js
+- Express.js
 - REST APIs
 
 ### Database
+
 - MySQL
+- MongoDB
 - SQLite
 
+### AI / Computer Vision
+
+- OpenCV
+- YOLOv8
+- Tesseract OCR
+- Computer Vision
+
 ### Tools
+
 - Git
 - GitHub
 - VS Code
 - Postman
+- UiPath
+- MongoDB Atlas
+- Render
+- Cloudinary
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### AI Surveillance Pro Dashboard
-AI-powered surveillance system with person detection, face recognition, motion detection and OCR.
+## 🤖 AI Surveillance Pro Dashboard
 
-### Travel Buddy Robot
-Flight booking automation using UiPath and web automation.
+AI-powered surveillance system with:
 
-### Student Performance Prediction
-Machine Learning project to predict student performance using Python.
+- Face Recognition
+- Motion Detection
+- Person Detection
+- Vehicle Number Plate Recognition
+- OCR
+- Real-Time Monitoring
 
-### Portfolio Website
-Personal responsive portfolio built with HTML, CSS and JavaScript.
+**Tech Stack**
+
+Python • OpenCV • YOLOv8 • Tkinter • OCR
 
 ---
 
-## 📜 Certifications
+## ✈️ Travel Buddy Robot
+
+Flight booking automation using UiPath.
+
+### Features
+
+- Flight Search Automation
+- Web Automation
+- Data Scraping
+- Excel Automation
+
+**Tech Stack**
+
+UiPath • Excel Automation • RPA
+
+---
+
+## 💼 AI Powered Job Portal
+
+A Full Stack Recruitment Platform.
+
+### Features
+
+- JWT Authentication
+- Role Based Login
+- Resume Upload
+- Cloudinary Integration
+- MongoDB Database
+- REST APIs
+
+**Tech Stack**
+
+MongoDB • Express.js • React.js • Node.js • Redux Toolkit
+
+---
+
+## 🎤 Voice Assistant
+
+Python based Voice Assistant capable of
+
+- Voice Commands
+- Search Wikipedia
+- Open Websites
+- Play Music
+- Tell Time
+
+---
+
+# 🎓 Education
+
+### Master of Computer Applications (MCA)
+
+Lloyd Institute of Engineering & Technology
+
+2024 – 2026
+
+### Bachelor of Computer Applications (BCA)
+
+Magadh University
+
+2020 – 2023
+
+---
+
+# 📜 Certifications
 
 - AICTE Front-End Web Development Internship
 - Google Vertex AI Prompt Design Certification
 
 ---
 
-## 🎯 Career Objective
+# 🎯 Career Objective
 
-Seeking an opportunity as a Python Full Stack Developer where I can apply my technical skills, contribute to impactful projects, and continuously learn modern software development technologies.
-
----
-
-## 📫 Connect with Me
-
-📧 Email: naveensharma.mca26@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/naveen5212
-
-🐙 GitHub: https://github.com/NaveenSharmaDev
+Passionate Python and MERN Stack Developer seeking an entry-level Software Engineer role where I can build scalable applications, solve real-world problems, and continuously learn modern technologies.
 
 ---
 
-⭐ *Always learning, always building, always improving.*
+# 📫 Connect With Me
 
-## 📊 GitHub Stats
+📧 Email
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=tokyonight&cache_seconds=1800)
+naveensharma.mca26@gmail.com
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=tokyonight&cache_seconds=1800)
+💼 LinkedIn
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=tokyonight)
+https://www.linkedin.com/in/naveen5212
+
+🐙 GitHub
+
+https://github.com/NaveenSharmaDev
+
+---
+
+⭐ Always Learning • Always Building • Always Improving
