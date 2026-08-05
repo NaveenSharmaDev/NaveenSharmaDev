@@ -190,15 +190,15 @@ Passionate Python and MERN Stack Developer seeking an entry-level Software Engin
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=radical&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=tokyonight&hide_border=true" />
 </p>
 ---
 
