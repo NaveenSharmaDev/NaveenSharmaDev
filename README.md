@@ -1,73 +1,92 @@
-<h1 align="center">Hi 👋, I'm Naveen Kumar Sharma</h1>
+<div align="center">
 
-<h3 align="center">Python Developer | MERN Stack Developer | AI & Computer Vision Enthusiast</h3>
+# 🚀 Hi, I'm Naveen Kumar Sharma
 
-<p align="center">
-🎓 MCA Student | 💻 Full Stack Developer | 🚀 Open to Full-Time Opportunities
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;MERN+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Backend+Developer;Open+to+Software+Engineer+Roles" />
+
+<img src="https://komarev.com/ghpvc/?username=NaveenSharmaDev&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 MCA Student
+
+💻 Python Developer
+
+⚛️ MERN Stack Developer
+
+🤖 AI & Computer Vision Enthusiast
+
+🚀 Backend Developer
+
+🌱 Learning
+
+- Django
+- FastAPI
+- Docker
+- Node.js
+- System Design
+
+💡 Interested In
+
+- Artificial Intelligence
+- REST APIs
+- Computer Vision
+- Scalable Backend Systems
+- Full Stack Development
+
+📍 Greater Noida, India
+
+💼 Open to Internship & Full-Time Opportunities
+
+---
+
+# 🚀 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
+
 </p>
 
----
+## Frontend
 
-# 👨‍💻 About Me
+<p>
 
-- 🎓 MCA Student at Lloyd Institute of Engineering & Technology
-- 💻 Python & MERN Stack Developer
-- 🤖 Interested in AI, Computer Vision and Backend Development
-- 🌱 Currently learning Django, FastAPI, Node.js and Docker
-- ⚡ Passionate about REST APIs and Scalable Applications
-- 📍 Greater Noida, India
-- 🚀 Open to Internship & Full-Time Opportunities
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
 
----
+</p>
 
-# 🛠 Tech Stack
+## Backend
 
-### Programming Languages
+<p>
 
-- Python
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi"/>
 
-### Frontend
+</p>
 
-- React.js
-- HTML5
-- CSS3
-- Bootstrap
+## Database
 
-### Backend
+<p>
 
-- FastAPI
-- Django
-- Node.js
-- Express.js
-- REST APIs
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
 
-### Database
+</p>
 
-- MySQL
-- MongoDB
-- SQLite
+## Tools
 
-### AI / Computer Vision
+<p>
 
-- OpenCV
-- YOLOv8
-- Tesseract OCR
-- Computer Vision
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
 
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Postman
-- UiPath
-- MongoDB Atlas
-- Render
-- Cloudinary
+</p>
 
 ---
 
@@ -75,78 +94,87 @@
 
 ## 🤖 AI Surveillance Pro Dashboard
 
-AI-powered surveillance system with:
+✔ Face Recognition
 
-- Face Recognition
-- Motion Detection
-- Person Detection
-- Vehicle Number Plate Recognition
-- OCR
-- Real-Time Monitoring
+✔ Motion Detection
 
-**Tech Stack**
+✔ Person Detection
+
+✔ Vehicle Number Plate Recognition
+
+✔ OCR
+
+✔ Real-Time Monitoring
+
+**Tech**
 
 Python • OpenCV • YOLOv8 • Tkinter • OCR
 
 ---
 
-## ✈️ Travel Buddy Robot
+## 💼 AI Powered Job Portal
 
-Flight booking automation using UiPath.
+✔ JWT Authentication
 
-### Features
+✔ Role Based Login
 
-- Flight Search Automation
-- Web Automation
-- Data Scraping
-- Excel Automation
+✔ Resume Upload
 
-**Tech Stack**
+✔ Cloudinary
 
-UiPath • Excel Automation • RPA
+✔ MongoDB
+
+✔ REST APIs
+
+**Tech**
+
+MongoDB • Express • React • Node • Redux Toolkit
 
 ---
 
-## 💼 AI Powered Job Portal
+## ✈️ Travel Buddy Robot
 
-A Full Stack Recruitment Platform.
+✔ Flight Booking Automation
 
-### Features
+✔ Data Scraping
 
-- JWT Authentication
-- Role Based Login
-- Resume Upload
-- Cloudinary Integration
-- MongoDB Database
-- REST APIs
+✔ Excel Automation
 
-**Tech Stack**
+✔ Web Automation
 
-MongoDB • Express.js • React.js • Node.js • Redux Toolkit
+**Tech**
+
+UiPath • Excel • RPA
 
 ---
 
 ## 🎤 Voice Assistant
 
-Python based Voice Assistant capable of
+✔ Voice Commands
 
-- Voice Commands
-- Search Wikipedia
-- Open Websites
-- Play Music
-- Tell Time
+✔ Open Websites
+
+✔ Play Music
+
+✔ Tell Time
+
+✔ Wikipedia Search
+
+**Tech**
+
+Python
 
 ---
 
 # 🎓 Education
 
-### Master of Computer Applications (MCA)
+### 🎓 Master of Computer Applications (MCA)
 
 Lloyd Institute of Engineering & Technology
 
 2024 – 2026
 
-### Bachelor of Computer Applications (BCA)
+### 🎓 Bachelor of Computer Applications (BCA)
 
 Magadh University
 
@@ -156,8 +184,9 @@ Magadh University
 
 # 📜 Certifications
 
-- AICTE Front-End Web Development Internship
-- Google Vertex AI Prompt Design Certification
+🏆 AICTE Front-End Web Development Internship
+
+🏆 Google Vertex AI Prompt Design Certification
 
 ---
 
@@ -167,13 +196,12 @@ Passionate Python and MERN Stack Developer seeking an entry-level Software Engin
 
 ---
 
----
+# 🌐 Connect With Me
 
-# 📫 Connect With Me
+<p align="center">
 
-<p align="left">
 <a href="mailto:naveensharma.mca26@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/naveen5212">
@@ -183,23 +211,53 @@ Passionate Python and MERN Stack Developer seeking an entry-level Software Engin
 <a href="https://github.com/NaveenSharmaDev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=tokyonight&hide_border=true" />
-</p>
 ---
 
-⭐ **Always Learning • Always Building • Always Improving**
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NaveenSharmaDev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Always Learning • Always Building • Always Improving
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+
+</div>
