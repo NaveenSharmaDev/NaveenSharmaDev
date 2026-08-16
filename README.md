@@ -234,6 +234,7 @@ Passionate Python and MERN Stack Developer seeking an entry-level Software Engin
 
 ---
 
+
 # 🏆 GitHub Trophies
 
 <p align="center">
