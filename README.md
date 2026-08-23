@@ -305,13 +305,6 @@
 
 <div align="center">
 
-# 📈 Contribution Graph
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenSharmaDev&theme=tokyo-night&hide_border=true" />
-
-</div>
 
 # 🐍 Contribution Snake
 
