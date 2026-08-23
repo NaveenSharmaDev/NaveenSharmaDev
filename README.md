@@ -273,17 +273,19 @@
 
 <div align="center">
 
-# 📊 GitHub Analytics
+<div align="center">
+
+# 📊 GitHub Statistics
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -295,13 +297,21 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=NaveenSharmaDev&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NaveenSharmaDev&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
 ---
 
 <div align="center">
+
+# 📈 Contribution Graph
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenSharmaDev&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 # 🐍 Contribution Snake
 
