@@ -280,6 +280,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
@@ -291,6 +292,7 @@
 ---
 
 <div align="center">
+
 
 # 🏆 GitHub Trophies
 
@@ -305,26 +307,31 @@
 <div align="center">
 
 
+
 # 🐍 Contribution Snake
 
 <br>
 
 <picture>
 
+
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake-dark.svg"
   />
 
+ 
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake.svg"
   />
 
+ 
   <img
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake.svg"
   />
+
 
 </picture>
 
@@ -333,6 +340,7 @@
 ---
 
 <div align="center">
+
 
 # 📈 GitHub Contributions
 
