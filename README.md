@@ -252,27 +252,22 @@
 
 # 🌐 Connect With Me
 
-<br>
+Connect With Me
 
-<a href="mailto:naveensharma.mca26@gmail.com">
+<br><a href="mailto:naveensharma.mca26@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/naveen5212">
+</a><a href="https://www.linkedin.com/in/naveen5212">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/NaveenSharmaDev">
+</a><a href="https://github.com/NaveenSharmaDev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://naveensharmadev.github.io/3d-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-
 </div>
-
 ---
 
 <div align="center">
-
-<div align="center">
+  <div align="center">
 
 # 📊 GitHub Statistics
 
