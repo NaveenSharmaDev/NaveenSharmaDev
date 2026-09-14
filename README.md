@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets" alt="Animated 3D developer banner for Naveen Kumar Sharma" width="100%" />
+<img src="assets/naveen-3d-hero.svgassets/naveen-3d-hero.svg" alt="Animated 3D developer banner for Naveen Kumar Sharma" width="100%" />
 
 # Hi, I'm Naveen Kumar Sharma 👋
 
