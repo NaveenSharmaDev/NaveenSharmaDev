@@ -1,336 +1,722 @@
+
+
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F4C81,70:7C3AED,100:14B8A6&height=245&section=header&text=Naveen%20Kumar%20Sharma&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=37&desc=Python%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision&descSize=18&descAlignY=57" alt="Naveen Kumar Sharma" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Python+Developer+%7C+MERN+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Backend+Developer+Building+Useful+Software;Open+to+Software+Engineer+Roles" alt="Typing introduction" />
+# 🚀 Hi, I'm Naveen Kumar Sharma
 
-  <br />
-  <a href="https://github.com/NaveenSharmaDev"><img src="https://komarev.com/ghpvc/?username=NaveenSharmaDev&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://www.linkedin.com/in/naveen5212"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:naveensharma.mca26@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Naveen" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;MERN+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Backend+Developer;Open+to+Software+Engineer+Roles" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=NaveenSharmaDev&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
 </div>
 
-<br />
+---
 
-## About Me
+<div align="center">
 
-```text
-MCA student based in Greater Noida, India.
-I build practical software at the intersection of Python, backend engineering,
-MERN development, AI, and computer vision.
-```
+## 💫 About Me
+
+</div>
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 **MCA Student**
+
+💻 **Python Developer**
+
+⚛️ **MERN Stack Developer**
+
+🤖 **AI & Computer Vision Enthusiast**
+
+🚀 **Backend Developer**
+
+🌱 **Learning**
+
+- Django
+- FastAPI
+- Docker
+- Node.js
+- System Design
+
+💡 **Interested In**
+
+- Artificial Intelligence
+- REST APIs
+- Computer Vision
+- Scalable Backend Systems
+- Full Stack Development
+
+📍 **Greater Noida, India**
+
+💼 **Open to Internship & Full-Time Opportunities**
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+# 🚀 Tech Stack
+
+</div>
+
+## 🐍 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+
+</div>
+
+---
+
+## 🎨 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
+
+</div>
+
+---
+
+## ⚙️ Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+
+</div>
+
+---
+
+## 🗄️ Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
+</div>
+
+---
+
+## 🛠️ Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Current Focus</h3>
-      <ul>
-        <li>Python development and scalable REST APIs</li>
-        <li>AI, computer vision, and automation</li>
-        <li>Backend and full-stack engineering</li>
-        <li>Django, FastAPI, Docker, Node.js, and system design</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Open To</h3>
-      <ul>
-        <li>Software Engineer roles</li>
-        <li>Backend and full-stack opportunities</li>
-        <li>Internships and full-time positions</li>
-        <li>Real-world product and AI projects</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+## 🤖 AI Surveillance Pro Dashboard
+
+✔ Face Recognition
+
+✔ Motion Detection
+
+✔ Person Detection
+
+✔ Vehicle Number Plate Recognition
+
+✔ OCR
+
+✔ Real-Time Monitoring
+
+**Tech**
+
+`Python` • `OpenCV` • `YOLOv8` • `Tkinter` • `OCR`
+
+</td>
+
+<td width="50%">
+
+## 💼 AI Powered Job Portal
+
+✔ JWT Authentication
+
+✔ Role Based Login
+
+✔ Resume Upload
+
+✔ Cloudinary
+
+✔ MongoDB
+
+✔ REST APIs
+
+**Tech**
+
+`MongoDB` • `Express` • `React` • `Node` • `Redux Toolkit`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## ✈️ Travel Buddy Robot
+
+✔ Flight Booking Automation
+
+✔ Data Scraping
+
+✔ Excel Automation
+
+✔ Web Automation
+
+**Tech**
+
+`UiPath` • `Excel` • `RPA`
+
+</td>
+
+<td width="50%">
+
+## 🎤 Voice Assistant
+
+✔ Voice Commands
+
+✔ Open Websites
+
+✔ Play Music
+
+✔ Tell Time
+
+✔ Wikipedia Search
+
+**Tech**
+
+`Python`
+
+</td>
+</tr>
 </table>
 
-## Tech Stack
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages: Python, JavaScript, HTML, CSS" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,express,django,fastapi&theme=dark" alt="Frontend and backend: React, Bootstrap, Node.js, Express, Django, FastAPI" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vscode,postman,docker&theme=dark" alt="Data and tools: MongoDB, MySQL, SQLite, Git, GitHub, VS Code, Postman, Docker" />
+
+# 🎓 Education
+
 </div>
 
-<br />
+### 🎓 Master of Computer Applications (MCA)
+
+**Lloyd Institute of Engineering & Technology**
+
+`2024 – 2026`
+
+### 🎓 Bachelor of Computer Applications (BCA)
+
+**Magadh University**
+
+`2020 – 2023`
+
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LANGUAGES-Python%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-0F172A?style=flat-square&labelColor=1E293B" alt="Languages" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20REST%20APIs%20%7C%20Computer%20Vision%20%7C%20Scalable%20Systems-0F172A?style=flat-square&labelColor=1E293B" alt="Focus areas" />
+
+# 📜 Certifications
+
 </div>
 
-## Featured Projects
+🏆 **AICTE Front-End Web Development Internship**
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AI Surveillance Pro Dashboard</h3>
-      <p>Real-time surveillance dashboard for intelligent monitoring.</p>
-      <ul>
-        <li>Face recognition and motion detection</li>
-        <li>Person detection and vehicle number-plate recognition</li>
-        <li>OCR and real-time monitoring</li>
-      </ul>
-      <p><code>Python</code> <code>OpenCV</code> <code>YOLOv8</code> <code>Tkinter</code> <code>OCR</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI-Powered Job Portal</h3>
-      <p>Role-based job platform designed for secure, practical hiring workflows.</p>
-      <ul>
-        <li>JWT authentication and role-based login</li>
-        <li>Resume upload with Cloudinary</li>
-        <li>MongoDB-backed REST APIs</li>
-      </ul>
-      <p><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code> <code>Redux Toolkit</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Travel Buddy Robot</h3>
-      <p>Automation workflow for repetitive travel operations.</p>
-      <ul>
-        <li>Flight booking automation</li>
-        <li>Data scraping and web automation</li>
-        <li>Excel automation</li>
-      </ul>
-      <p><code>UiPath</code> <code>RPA</code> <code>Excel</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Voice Assistant</h3>
-      <p>Python voice assistant for everyday commands.</p>
-      <ul>
-        <li>Voice commands, web actions, and music playback</li>
-        <li>Time queries and Wikipedia search</li>
-      </ul>
-      <p><code>Python</code></p>
-    </td>
-  </tr>
-</table>
+🏆 **Google Vertex AI Prompt Design Certification**
 
-## Education and Certifications
-
-| Program | Institution | Period |
-| :-- | :-- | :-- |
-| Master of Computer Applications (MCA) | Lloyd Institute of Engineering & Technology | 2024 - 2026 |
-| Bachelor of Computer Applications (BCA) | Magadh University | 2020 - 2023 |
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AICTE-FRONT--END%20WEB%20DEVELOPMENT%20INTERNSHIP-0F766E?style=for-the-badge" alt="AICTE Front-End Web Development Internship" />
-  <img src="https://img.shields.io/badge/GOOGLE-VERTEX%20AI%20PROMPT%20DESIGN-1D4ED8?style=for-the-badge&logo=google&logoColor=white" alt="Google Vertex AI Prompt Design Certification" />
-</div>
 
-## Career Objective
+# 🎯 Career Objective
+
+</div>
 
 > Passionate Python and MERN Stack Developer seeking an entry-level Software Engineer role where I can build scalable applications, solve real-world problems, and continuously learn modern technologies.
 
-## GitHub Command Center
+---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Naveen's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Naveen's most used languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=tokyonight&hide_border=true" alt="Naveen's GitHub contribution streak" />
-</div>
 
-<br />
+# 🌐 Connect With Me
+
+Connect With Me
+
+<br><a href="mailto:naveensharma.mca26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/naveen5212">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/NaveenSharmaDev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://naveensharmadev.github.io/3d-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</div>
+---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaveenSharmaDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+  <div align="center">
+
+# 📊 GitHub Statistics
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=tokyonight&hide_border=true" />
+
 </div>
 
-## Contribution Activity
+---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-  </picture>
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenSharmaDev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+
+
+# 🏆 GitHub Trophies
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=NaveenSharmaDev&theme=tokyonight&no-frame=true&row=1&column=7" />
+
 </div>
 
-## Connect With Me
+---
 
 <div align="center">
-  <a href="mailto:naveensharma.mca26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/naveen5212"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/NaveenSharmaDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://naveensharmadev.github.io/3d-portfolio/"><img src="https://img.shields.io/badge/3D%20Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="3D Portfolio" /></a>
+
+
+
+# 🐍 Contribution Snake
+
+<br>
+
+<picture>
+
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake-dark.svg"
+  />
+
+ 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake.svg"
+  />
+
+ 
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake.svg"
+  />
+
+
+</picture>
+
 </div>
 
-<br />
+---
 
 <div align="center">
-  <strong>Always learning. Always building. Always improving.</strong>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:14B8A6&height=120&section=footer" alt="Decorative footer" width="100%" />
+
+
+
+
+# 📈 GitHub Contributions
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenSharmaDev&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
+
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F4C81,70:7C3AED,100:14B8A6&height=245&section=header&text=Naveen%20Kumar%20Sharma&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=37&desc=Python%20Developer%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20%26%20Computer%20Vision&descSize=18&descAlignY=57" alt="Naveen Kumar Sharma" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Python+Developer+%7C+MERN+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Backend+Developer+Building+Useful+Software;Open+to+Software+Engineer+Roles" alt="Typing introduction" />
+## ⭐ Always Learning • Always Building • Always Improving
 
-  <br />
-  <a href="https://github.com/NaveenSharmaDev"><img src="https://komarev.com/ghpvc/?username=NaveenSharmaDev&label=PROFILE+VIEWS&color=0EA5E9&style=for-the-badge" alt="Profile views" /></a>
-  <a href="https://www.linkedin.com/in/naveen5212"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:naveensharma.mca26@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Naveen" /></a>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+
 </div>
 
-<br />
 
-## About Me
 
-```text
-MCA student based in Greater Noida, India.
-I build practical software at the intersection of Python, backend engineering,
-MERN development, AI, and computer vision.
-```
+<div align="center">
+
+# 🚀 Hi, I'm Naveen Kumar Sharma
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+Developer;MERN+Stack+Developer;AI+%26+Computer+Vision+Enthusiast;Backend+Developer;Open+to+Software+Engineer+Roles" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=NaveenSharmaDev&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💫 About Me
+
+</div>
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 **MCA Student**
+
+💻 **Python Developer**
+
+⚛️ **MERN Stack Developer**
+
+🤖 **AI & Computer Vision Enthusiast**
+
+🚀 **Backend Developer**
+
+🌱 **Learning**
+
+- Django
+- FastAPI
+- Docker
+- Node.js
+- System Design
+
+💡 **Interested In**
+
+- Artificial Intelligence
+- REST APIs
+- Computer Vision
+- Scalable Backend Systems
+- Full Stack Development
+
+📍 **Greater Noida, India**
+
+💼 **Open to Internship & Full-Time Opportunities**
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+# 🚀 Tech Stack
+
+</div>
+
+## 🐍 Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+
+</div>
+
+---
+
+## 🎨 Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
+
+</div>
+
+---
+
+## ⚙️ Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+
+</div>
+
+---
+
+## 🗄️ Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
+</div>
+
+---
+
+## 🛠️ Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Current Focus</h3>
-      <ul>
-        <li>Python development and scalable REST APIs</li>
-        <li>AI, computer vision, and automation</li>
-        <li>Backend and full-stack engineering</li>
-        <li>Django, FastAPI, Docker, Node.js, and system design</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Open To</h3>
-      <ul>
-        <li>Software Engineer roles</li>
-        <li>Backend and full-stack opportunities</li>
-        <li>Internships and full-time positions</li>
-        <li>Real-world product and AI projects</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+## 🤖 AI Surveillance Pro Dashboard
+
+✔ Face Recognition
+
+✔ Motion Detection
+
+✔ Person Detection
+
+✔ Vehicle Number Plate Recognition
+
+✔ OCR
+
+✔ Real-Time Monitoring
+
+**Tech**
+
+`Python` • `OpenCV` • `YOLOv8` • `Tkinter` • `OCR`
+
+</td>
+
+<td width="50%">
+
+## 💼 AI Powered Job Portal
+
+✔ JWT Authentication
+
+✔ Role Based Login
+
+✔ Resume Upload
+
+✔ Cloudinary
+
+✔ MongoDB
+
+✔ REST APIs
+
+**Tech**
+
+`MongoDB` • `Express` • `React` • `Node` • `Redux Toolkit`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## ✈️ Travel Buddy Robot
+
+✔ Flight Booking Automation
+
+✔ Data Scraping
+
+✔ Excel Automation
+
+✔ Web Automation
+
+**Tech**
+
+`UiPath` • `Excel` • `RPA`
+
+</td>
+
+<td width="50%">
+
+## 🎤 Voice Assistant
+
+✔ Voice Commands
+
+✔ Open Websites
+
+✔ Play Music
+
+✔ Tell Time
+
+✔ Wikipedia Search
+
+**Tech**
+
+`Python`
+
+</td>
+</tr>
 </table>
 
-## Tech Stack
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages: Python, JavaScript, HTML, CSS" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,express,django,fastapi&theme=dark" alt="Frontend and backend: React, Bootstrap, Node.js, Express, Django, FastAPI" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vscode,postman,docker&theme=dark" alt="Data and tools: MongoDB, MySQL, SQLite, Git, GitHub, VS Code, Postman, Docker" />
+
+# 🎓 Education
+
 </div>
 
-<br />
+### 🎓 Master of Computer Applications (MCA)
+
+**Lloyd Institute of Engineering & Technology**
+
+`2024 – 2026`
+
+### 🎓 Bachelor of Computer Applications (BCA)
+
+**Magadh University**
+
+`2020 – 2023`
+
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LANGUAGES-Python%20%7C%20JavaScript%20%7C%20HTML%20%7C%20CSS-0F172A?style=flat-square&labelColor=1E293B" alt="Languages" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20REST%20APIs%20%7C%20Computer%20Vision%20%7C%20Scalable%20Systems-0F172A?style=flat-square&labelColor=1E293B" alt="Focus areas" />
+
+# 📜 Certifications
+
 </div>
 
-## Featured Projects
+🏆 **AICTE Front-End Web Development Internship**
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AI Surveillance Pro Dashboard</h3>
-      <p>Real-time surveillance dashboard for intelligent monitoring.</p>
-      <ul>
-        <li>Face recognition and motion detection</li>
-        <li>Person detection and vehicle number-plate recognition</li>
-        <li>OCR and real-time monitoring</li>
-      </ul>
-      <p><code>Python</code> <code>OpenCV</code> <code>YOLOv8</code> <code>Tkinter</code> <code>OCR</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI-Powered Job Portal</h3>
-      <p>Role-based job platform designed for secure, practical hiring workflows.</p>
-      <ul>
-        <li>JWT authentication and role-based login</li>
-        <li>Resume upload with Cloudinary</li>
-        <li>MongoDB-backed REST APIs</li>
-      </ul>
-      <p><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code> <code>Redux Toolkit</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Travel Buddy Robot</h3>
-      <p>Automation workflow for repetitive travel operations.</p>
-      <ul>
-        <li>Flight booking automation</li>
-        <li>Data scraping and web automation</li>
-        <li>Excel automation</li>
-      </ul>
-      <p><code>UiPath</code> <code>RPA</code> <code>Excel</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Voice Assistant</h3>
-      <p>Python voice assistant for everyday commands.</p>
-      <ul>
-        <li>Voice commands, web actions, and music playback</li>
-        <li>Time queries and Wikipedia search</li>
-      </ul>
-      <p><code>Python</code></p>
-    </td>
-  </tr>
-</table>
+🏆 **Google Vertex AI Prompt Design Certification**
 
-## Education and Certifications
-
-| Program | Institution | Period |
-| :-- | :-- | :-- |
-| Master of Computer Applications (MCA) | Lloyd Institute of Engineering & Technology | 2024 - 2026 |
-| Bachelor of Computer Applications (BCA) | Magadh University | 2020 - 2023 |
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AICTE-FRONT--END%20WEB%20DEVELOPMENT%20INTERNSHIP-0F766E?style=for-the-badge" alt="AICTE Front-End Web Development Internship" />
-  <img src="https://img.shields.io/badge/GOOGLE-VERTEX%20AI%20PROMPT%20DESIGN-1D4ED8?style=for-the-badge&logo=google&logoColor=white" alt="Google Vertex AI Prompt Design Certification" />
-</div>
 
-## Career Objective
+# 🎯 Career Objective
+
+</div>
 
 > Passionate Python and MERN Stack Developer seeking an entry-level Software Engineer role where I can build scalable applications, solve real-world problems, and continuously learn modern technologies.
 
-## GitHub Command Center
+---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Naveen's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Naveen's most used languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=tokyonight&hide_border=true" alt="Naveen's GitHub contribution streak" />
+
+# 🌐 Connect With Me
+
+Connect With Me
+
+<br><a href="mailto:naveensharma.mca26@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/naveen5212">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/NaveenSharmaDev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="https://naveensharmadev.github.io/3d-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</div>
+---
+
+<div align="center">
+  <div align="center">
+
+# 📊 GitHub Statistics
+
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaveenSharmaDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSharmaDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=NaveenSharmaDev&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<br />
+---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaveenSharmaDev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+
+
+# 🏆 GitHub Trophies
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=NaveenSharmaDev&theme=tokyonight&no-frame=true&row=1&column=7" />
+
 </div>
 
-## Contribution Activity
+---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-  </picture>
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenSharmaDev&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+
+
+
+# 🐍 Contribution Snake
+
+<br>
+
+<picture>
+
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake-dark.svg"
+  />
+
+ 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake.svg"
+  />
+
+ 
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/NaveenSharmaDev/NaveenSharmaDev/output/github-contribution-grid-snake.svg"
+  />
+
+
+</picture>
+
 </div>
 
-## Connect With Me
+---
 
 <div align="center">
-  <a href="mailto:naveensharma.mca26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/naveen5212"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/NaveenSharmaDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://naveensharmadev.github.io/3d-portfolio/"><img src="https://img.shields.io/badge/3D%20Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="3D Portfolio" /></a>
+
+
+
+
+# 📈 GitHub Contributions
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenSharmaDev&theme=tokyo-night&hide_border=true&area=true" />
+
 </div>
 
-<br />
+---
 
 <div align="center">
-  <strong>Always learning. Always building. Always improving.</strong>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:14B8A6&height=120&section=footer" alt="Decorative footer" width="100%" />
+
+## ⭐ Always Learning • Always Building • Always Improving
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+
 </div>
