@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/NaveenSharmaDev/NaveenSharmaDev/commit/6ce8ced288bf6dee706d1b1e533bc2db840242e8" alt="Animated 3D developer banner for Naveen Kumar Sharma" width="100%" />
+<img src=" assets/naveen-3d-hero.svg" alt="Animated 3D developer banner for Naveen Kumar Sharma" width="100%" />
 
 # Hi, I'm Naveen Kumar Sharma 👋
 
